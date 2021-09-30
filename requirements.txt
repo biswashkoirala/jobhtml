@@ -1,0 +1,8 @@
+fastAPI
+uvicorn
+
+# for template
+jinja2
+
+#for static contents
+aiofiles
